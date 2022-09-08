@@ -1,4 +1,12 @@
-# cmake plugin for buildenv determination
+###############################################################
+#
+# cvbuild: cmake plugin for buildenv determination
+#
+# Author:   Zhuo Zhang <imzhuo@foxmail.com>
+# Homepage: https://github.com/cvpkg/cvbuild
+#
+###############################################################
+
 cmake_minimum_required(VERSION 3.1)
 
 # Only included once
