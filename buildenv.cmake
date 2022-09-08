@@ -9,16 +9,6 @@ set(CVBUILD_INCLUDE_GUARD TRUE)
 
 set(CVBUILD_VERSION "2022.09.08")
 
-# There are 7 buildenv I often use:
-# linux-x64
-# windows x64, 86; MT, MD; vs2013, vs2015-2022
-# mac-x64
-# mac-arm64
-# android-armeabi-v7a
-# android-arm64-v8a
-# linux-aarch64
-
-
 ###############################################################
 #
 # Platform determinations
